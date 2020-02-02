@@ -1,0 +1,371 @@
+title: {
+  primary: "boku no hero academia"
+  others: ["my hero academia", "僕のヒーローアカデミア"]
+}
+scores: [
+  {
+    title: "otaku cheiroso"
+    value: 9.7
+    amount: 2000
+  }
+  {
+    title: "TMDb"
+    value: 8.1
+    amount: 46
+  }
+]
+seasons: [
+  {
+    title: {
+      primary: "1ª Temporada"
+    }
+    opening: "-77UEct0cZM"
+    eps: [
+      {
+        title: "1"
+        link: "link"
+      }
+      {
+        title: "2"
+        link: "link"
+      }
+      {
+        title: "3"
+        link: "link"
+      }
+      {
+        title: "4"
+        link: "link"
+      }
+      {
+        title: "5"
+        link: "link"
+      }
+      {
+        title: "6"
+        link: "link"
+      }
+      {
+        title: "7"
+        link: "link"
+      }
+      {
+        title: "8"
+        link: "link"
+      }
+      {
+        title: "9"
+        link: "link"
+      }
+      {
+        title: "10"
+        link: "link"
+      }
+      {
+        title: "11"
+        link: "link"
+      }
+      {
+        title: "12"
+        link: "link"
+      }
+      {
+        title: "13"
+        link: "link"
+      }
+    ]
+  }
+  {
+    title: {
+      primary: "2ª Temporada"
+    }
+    opening: "Q7w5IMyJ3pM"
+    eps: [
+      {
+        title: "1"
+        link: "link"
+      }
+      {
+        title: "2"
+        link: "link"
+      }
+      {
+        title: "3"
+        link: "link"
+      }
+      {
+        title: "4"
+        link: "link"
+      }
+      {
+        title: "5"
+        link: "link"
+      }
+      {
+        title: "6"
+        link: "link"
+      }
+      {
+        title: "7"
+        link: "link"
+      }
+      {
+        title: "8"
+        link: "link"
+      }
+      {
+        title: "9"
+        link: "link"
+      }
+      {
+        title: "10"
+        link: "link"
+      }
+      {
+        title: "11"
+        link: "link"
+      }
+      {
+        title: "12"
+        link: "link"
+      }
+      {
+        title: "13"
+        link: "link"
+      }
+      {
+        title: "14"
+        link: "link"
+      }
+      {
+        title: "15"
+        link: "link"
+      }
+      {
+        title: "16"
+        link: "link"
+      }
+      {
+        title: "17"
+        link: "link"
+      }
+      {
+        title: "18"
+        link: "link"
+      }
+      {
+        title: "19"
+        link: "link"
+      }
+      {
+        title: "20"
+        link: "link"
+      }
+      {
+        title: "21"
+        link: "link"
+      }
+      {
+        title: "22"
+        link: "link"
+      }
+      {
+        title: "23"
+        link: "link"
+      }
+      {
+        title: "24"
+        link: "link"
+      }
+      {
+        title: "25"
+        link: "link"
+      }
+    ]
+  }
+  {
+    title: {
+      primary: "3ª Temporada"
+    }
+    opening: "v1YojYU5nPQ"
+    eps: [
+      {
+        title: "1"
+        link: "link"
+      }
+      {
+        title: "2"
+        link: "link"
+      }
+      {
+        title: "3"
+        link: "link"
+      }
+      {
+        title: "4"
+        link: "link"
+      }
+      {
+        title: "5"
+        link: "link"
+      }
+      {
+        title: "6"
+        link: "link"
+      }
+      {
+        title: "7"
+        link: "link"
+      }
+      {
+        title: "8"
+        link: "link"
+      }
+      {
+        title: "9"
+        link: "link"
+      }
+      {
+        title: "10"
+        link: "link"
+      }
+      {
+        title: "11"
+        link: "link"
+      }
+      {
+        title: "12"
+        link: "link"
+      }
+      {
+        title: "13"
+        link: "link"
+      }
+      {
+        title: "14"
+        link: "link"
+      }
+      {
+        title: "15"
+        link: "link"
+      }
+      {
+        title: "16"
+        link: "link"
+      }
+      {
+        title: "17"
+        link: "link"
+      }
+      {
+        title: "18"
+        link: "link"
+      }
+      {
+        title: "19"
+        link: "link"
+      }
+      {
+        title: "20"
+        link: "link"
+      }
+      {
+        title: "21"
+        link: "link"
+      }
+      {
+        title: "22"
+        link: "link"
+      }
+      {
+        title: "23"
+        link: "link"
+      }
+      {
+        title: "24"
+        link: "link"
+      }
+      {
+        title: "25"
+        link: "link"
+      }
+    ]
+  }
+  {
+    title: {
+      primary: "4ª Temporada"
+    }
+    opening: "iBRH9Po3gw8"
+    eps: [
+      {
+        title: "1"
+        link: "link"
+      }
+      {
+        title: "2"
+        link: "link"
+      }
+      {
+        title: "3"
+        link: "link"
+      }
+      {
+        title: "4"
+        link: "link"
+      }
+      {
+        title: "5"
+        link: "link"
+      }
+      {
+        title: "6"
+        link: "link"
+      }
+      {
+        title: "7"
+        link: "link"
+      }
+      {
+        title: "8"
+        link: "link"
+      }
+      {
+        title: "9"
+        link: "link"
+      }
+      {
+        title: "10"
+        link: "link"
+      }
+      {
+        title: "11"
+        link: "link"
+      }
+      {
+        title: "12"
+        link: "link"
+      }
+      {
+        title: "13"
+        link: "link"
+      }
+      {
+        title: "14"
+        link: "link"
+      }
+      {
+        title: "15"
+        link: "link"
+      }
+      {
+        title: "16"
+        link: "link"
+      }
+    ]
+  }
+]
+categories: ["ação", "comédia", "escolar", "shounen", "superpoderes"]
+img: "boku-no-hero-academia"
+year: 2016
+status: "lançando"
+synopsis: "É chegado o verão, e os heróis das Salas 1-A e 1-B estão se preparando para o acampamento de treino mais duro da vida deles! Um grupo de profissionais veteranos vai levar cada um dos Dons dos estudantes ao seu limite, e os jovens heróis terão que enfrentar um desafio avassalador atrás do outro! Mas vencer a força da natureza em seu acampamento secreto será o menor de seus problemas, quando o treino de rotina se transformar numa luta desesperada por sobrevivência."

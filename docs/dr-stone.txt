@@ -1,0 +1,122 @@
+title: {
+  primary: "dr. stone"
+  others: ["ドクターストーン"]
+}
+scores: [
+  {
+    title: "otaku cheiroso"
+    value: 9.7
+    amount: 1200
+  }
+]
+seasons: [
+  {
+    title: {
+      primary: "1ª Temporada"
+    }
+    opening: "tF4faMbs5oQ"
+    eps: [
+      {
+        title: "1"
+        link: "link"
+      }
+      {
+        title: "2"
+        link: "link"
+      }
+      {
+        title: "3"
+        link: "link"
+      }
+      {
+        title: "4"
+        link: "link"
+      }
+      {
+        title: "5"
+        link: "link"
+      }
+      {
+        title: "6"
+        link: "link"
+      }
+      {
+        title: "7"
+        link: "link"
+      }
+      {
+        title: "8"
+        link: "link"
+      }
+      {
+        title: "9"
+        link: "link"
+      }
+      {
+        title: "10"
+        link: "link"
+      }
+      {
+        title: "11"
+        link: "link"
+      }
+      {
+        title: "12"
+        link: "link"
+      }
+      {
+        title: "13"
+        link: "link"
+      }
+      {
+        title: "14"
+        link: "link"
+      }
+      {
+        title: "15"
+        link: "link"
+      }
+      {
+        title: "16"
+        link: "link"
+      }
+      {
+        title: "17"
+        link: "link"
+      }
+      {
+        title: "18"
+        link: "link"
+      }
+      {
+        title: "19"
+        link: "link"
+      }
+      {
+        title: "20"
+        link: "link"
+      }
+      {
+        title: "21"
+        link: "link"
+      }
+      {
+        title: "22"
+        link: "link"
+      }
+      {
+        title: "23"
+        link: "link"
+      }
+      {
+        title: "24"
+        link: "link"
+      }
+    ]
+  }
+]
+categories: ["ação", "aventura", "comédia", "ficção científica"]
+img: "dr-stone"
+year: 2019
+status: "pausado"
+synopsis: "Milhares de anos após um misterioso fenômeno transformar a humanidade inteira em pedra, o extraordinariamente inteligente Senki Ishigami acorda. Neste novo mundo de pedra, Senku decide usar sua ciência para reerguer uma civilização à beira do colapso. Ao lado de seu super-musculoso amigo de infância Taiju Oki, que acordou junto com ele, os dois começam a reconstruir o mundo do zero."

@@ -1,0 +1,74 @@
+title: {
+  primary: "yakusoku no neverland"
+  others: ["束のネバーランド"]
+}
+scores: [
+  {
+    title: "otaku cheiroso"
+    value: 9.8
+    amount: 1232
+  }
+]
+seasons: [
+  {
+    title: {
+      primary: "1ª Temporada"
+    }
+    opening: "1JoFsTDfd-8"
+    eps: [
+      {
+        title: "1"
+        link: "link"
+      }
+      {
+        title: "2"
+        link: "link"
+      }
+      {
+        title: "3"
+        link: "link"
+      }
+      {
+        title: "4"
+        link: "link"
+      }
+      {
+        title: "5"
+        link: "link"
+      }
+      {
+        title: "6"
+        link: "link"
+      }
+      {
+        title: "7"
+        link: "link"
+      }
+      {
+        title: "8"
+        link: "link"
+      }
+      {
+        title: "9"
+        link: "link"
+      }
+      {
+        title: "10"
+        link: "link"
+      }
+      {
+        title: "11"
+        link: "link"
+      }
+      {
+        title: "12"
+        link: "link"
+      }
+    ]
+  }
+]
+categories: ["horror", "mistério", "psicológico", "sobrenatural", "suspense"]
+img: "yakusoku-no-neverland"
+year: 2019
+status: "pausado"
+synopsis: "A mulher a quem chamam de “mãe” não é uma mãe de verdade. As crianças que moram juntas não são irmãos de verdade. Na Casa Grace Field, moram apenas crianças órfãs. Um lar sem igual, onde 38 crianças sem parentesco algum levam vidas felizes ao lado de suas mães."

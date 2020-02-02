@@ -1,0 +1,79 @@
+title: {
+  primary: "isekai maou to shoukan shoujo no dorei majutsu"
+  others: ["異世界魔王と召喚少女の奴隷魔術"]
+}
+scores: [
+  {
+    title: "otaku cheiroso"
+    value: 9.6
+    amount: 488
+  }
+  {
+    title: "TMDb"
+    value: 4
+    amount: 46
+  }
+]
+seasons: [
+  {
+    title: {
+      primary: "1ª Temporada"
+    }
+    opening: "UcCTFOEls9g"
+    eps: [
+      {
+        title: "1"
+        link: "link"
+      }
+      {
+        title: "2"
+        link: "link"
+      }
+      {
+        title: "3"
+        link: "link"
+      }
+      {
+        title: "4"
+        link: "link"
+      }
+      {
+        title: "5"
+        link: "link"
+      }
+      {
+        title: "6"
+        link: "link"
+      }
+      {
+        title: "7"
+        link: "link"
+      }
+      {
+        title: "8"
+        link: "link"
+      }
+      {
+        title: "9"
+        link: "link"
+      }
+      {
+        title: "10"
+        link: "link"
+      }
+      {
+        title: "11"
+        link: "link"
+      }
+      {
+        title: "12"
+        link: "link"
+      }
+    ]
+  }
+]
+categories: ["comédia", "ecchi", "fantasia", "magia"]
+img: "isekai-maou-to-shoukan-shoujo-no-dorei-majutsu"
+year: 2018
+status: "finalizado"
+synopsis: "Sakamoto Takuma é tão poderoso no MMMO Cross Reverie que ele é considerado um “Lorde Demônio” por outros jogadores. Um dia ele é invocado para outro mundo, mas com a sua aparência do jogo! Entretanto, suas duas invocadoras colocaram um feitiço de escravidão na invocação… mas a habilidade passiva, Refletir Magia, do Takuma é ativada e as duas garotas que se tornam escravas dele."

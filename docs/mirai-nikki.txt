@@ -1,0 +1,135 @@
+title: {
+  primary: "mirai nikki"
+  others: ["diário do futuro", "未来日記"]
+}
+scores: [
+  {
+    title: "otaku cheiroso"
+    value: 9
+    amount: 1000
+  }
+  {
+    title: "TMDb"
+    value: 7
+    amount: 42
+  }
+]
+seasons: [
+  {
+    title: {
+      primary: "1ª Temporada"
+    }
+    opening: "ql0NtjXIv_s"
+    eps: [
+      {
+        title: "1"
+        link: "link"
+      }
+      {
+        title: "2"
+        link: "link"
+      }
+      {
+        title: "3"
+        link: "link"
+      }
+      {
+        title: "4"
+        link: "link"
+      }
+      {
+        title: "5"
+        link: "link"
+      }
+      {
+        title: "6"
+        link: "link"
+      }
+      {
+        title: "7"
+        link: "link"
+      }
+      {
+        title: "8"
+        link: "link"
+      }
+      {
+        title: "9"
+        link: "link"
+      }
+      {
+        title: "10"
+        link: "link"
+      }
+      {
+        title: "11"
+        link: "link"
+      }
+      {
+        title: "12"
+        link: "link"
+      }
+      {
+        title: "13"
+        link: "link"
+      }
+      {
+        title: "14"
+        link: "link"
+      }
+      {
+        title: "15"
+        link: "link"
+      }
+      {
+        title: "16"
+        link: "link"
+      }
+      {
+        title: "17"
+        link: "link"
+      }
+      {
+        title: "18"
+        link: "link"
+      }
+      {
+        title: "19"
+        link: "link"
+      }
+      {
+        title: "20"
+        link: "link"
+      }
+      {
+        title: "21"
+        link: "link"
+      }
+      {
+        title: "22"
+        link: "link"
+      }
+      {
+        title: "23"
+        link: "link"
+      }
+      {
+        title: "24"
+        link: "link"
+      }
+      {
+        title: "25"
+        link: "link"
+      }
+      {
+        title: "26"
+        link: "link"
+      }
+    ]
+  }
+]
+categories: ["ação", "mistério", "psicológico", "shounen", "sobrenatural", "suspense"]
+img: "mirai-nikki"
+year: 2011
+status: "finalizado"
+synopsis: "Mirai Nikki é uma séria de anime e mangá shōnen criado por Sakae Esuno. Conta a história de Yukiteru Amano, um garoto que com dificuldades de fazer amigos. Um dia, ganha de um Deus o poder de prever o futuro com seu celular, o seu “diário do futuro”"

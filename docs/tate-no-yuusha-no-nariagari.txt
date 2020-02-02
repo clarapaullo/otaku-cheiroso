@@ -1,0 +1,126 @@
+title: {
+  primary: "tate no yuusha no nariagari"
+  others: ["the rising of the shield hero", "盾の勇者の成り上がり"]
+}
+scores: [
+  {
+    title: "otaku cheiroso"
+    value: 9.7
+    amount: 2900
+  }
+]
+seasons: [
+  {
+    title: {
+      primary: "1ª Temporada"
+    }
+    opening: "jZvFEtR8RH0"
+    eps: [
+      {
+        title: "1"
+        link: "link"
+      }
+      {
+        title: "2"
+        link: "link"
+      }
+      {
+        title: "3"
+        link: "link"
+      }
+      {
+        title: "4"
+        link: "link"
+      }
+      {
+        title: "5"
+        link: "link"
+      }
+      {
+        title: "6"
+        link: "link"
+      }
+      {
+        title: "7"
+        link: "link"
+      }
+      {
+        title: "8"
+        link: "link"
+      }
+      {
+        title: "9"
+        link: "link"
+      }
+      {
+        title: "10"
+        link: "link"
+      }
+      {
+        title: "11"
+        link: "link"
+      }
+      {
+        title: "12"
+        link: "link"
+      }
+      {
+        title: "13"
+        link: "link"
+      }
+      {
+        title: "14"
+        link: "link"
+      }
+      {
+        title: "15"
+        link: "link"
+      }
+      {
+        title: "16"
+        link: "link"
+      }
+      {
+        title: "17"
+        link: "link"
+      }
+      {
+        title: "18"
+        link: "link"
+      }
+      {
+        title: "19"
+        link: "link"
+      }
+      {
+        title: "20"
+        link: "link"
+      }
+      {
+        title: "21"
+        link: "link"
+      }
+      {
+        title: "22"
+        link: "link"
+      }
+      {
+        title: "23"
+        link: "link"
+      }
+      {
+        title: "24"
+        link: "link"
+      }
+      {
+        title: "25"
+        link: "link"
+      }
+    ]
+  }
+]
+categories: ["ação", "aventura", "drama", "fantasia", "romance"]
+img: "tate-no-yuusha-no-nariagari"
+year: 2018
+status: "pausado"
+synopsis: "Iwatani Naofumi foi invocado num mundo paralelo junto com outras três pessoas para se tornarem os Heróis daquele mundo. Cada um dos heróis recebeu um equipamento lendário ao serem invocados e Naofumi recebeu o Escudo Lendário como arma. Devido à falta de carisma e experiência do Naofumi, ele é considerado o mais fraco e acaba traído, falsamente acusado e roubado no terceiro dia de sua aventura."

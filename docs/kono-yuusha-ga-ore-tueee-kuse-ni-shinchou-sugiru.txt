@@ -1,0 +1,74 @@
+title: {
+  primary: "kono yuusha ga ore tueee kuse ni shinchou sugiru"
+  others: ["shinchou yuusha", "慎重勇者~この勇者が俺TUEEEくせに慎重すぎる~"]
+}
+scores: [
+  {
+    title: "otaku cheiroso"
+    value: 9.6
+    amount: 1000
+  }
+]
+seasons: [
+  {
+    title: {
+      primary: "1ª Temporada"
+    }
+    opening: "Nt7RNYaXxMQ"
+    eps: [
+      {
+        title: "1"
+        link: "link"
+      }
+      {
+        title: "2"
+        link: "link"
+      }
+      {
+        title: "3"
+        link: "link"
+      }
+      {
+        title: "4"
+        link: "link"
+      }
+      {
+        title: "5"
+        link: "link"
+      }
+      {
+        title: "6"
+        link: "link"
+      }
+      {
+        title: "7"
+        link: "link"
+      }
+      {
+        title: "8"
+        link: "link"
+      }
+      {
+        title: "9"
+        link: "link"
+      }
+      {
+        title: "10"
+        link: "link"
+      }
+      {
+        title: "11"
+        link: "link"
+      }
+      {
+        title: "12"
+        link: "link"
+      }
+    ]
+  }
+]
+categories: ["ação", "aventura", "comédia", "fantasia"]
+img: "kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru"
+year: 2019
+status: "pausado"
+synopsis: "A história começa quando a deusa Rista invoca um herói para ajudar seu mundo de videogame em modo difícil. O herói, Seiya, é excepcional em todos os sentidos, mas é incrivelmente cauteloso. Ele faz coisas como comprar três conjuntos de armadura (um para vestir, um sobressalente e um sobressalente para o sobressalente) e usar o poder total contra inimigos fracos (por via das dúvidas)."

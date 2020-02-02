@@ -1,0 +1,122 @@
+title: {
+  primary: "vinland saga"
+  others: ["ヴィンランド・サガ"]
+}
+scores: [
+  {
+    title: "otaku cheiroso"
+    value: 9.7
+    amount: 2000
+  }
+]
+seasons: [
+  {
+    title: {
+      primary: "1ª Temporada"
+    }
+    opening: "xEVcTStgA4A"
+    eps: [
+      {
+        title: "1"
+        link: "link"
+      }
+      {
+        title: "2"
+        link: "link"
+      }
+      {
+        title: "3"
+        link: "link"
+      }
+      {
+        title: "4"
+        link: "link"
+      }
+      {
+        title: "5"
+        link: "link"
+      }
+      {
+        title: "6"
+        link: "link"
+      }
+      {
+        title: "7"
+        link: "link"
+      }
+      {
+        title: "8"
+        link: "link"
+      }
+      {
+        title: "9"
+        link: "link"
+      }
+      {
+        title: "10"
+        link: "link"
+      }
+      {
+        title: "11"
+        link: "link"
+      }
+      {
+        title: "12"
+        link: "link"
+      }
+      {
+        title: "13"
+        link: "link"
+      }
+      {
+        title: "14"
+        link: "link"
+      }
+      {
+        title: "15"
+        link: "link"
+      }
+      {
+        title: "16"
+        link: "link"
+      }
+      {
+        title: "17"
+        link: "link"
+      }
+      {
+        title: "18"
+        link: "link"
+      }
+      {
+        title: "19"
+        link: "link"
+      }
+      {
+        title: "20"
+        link: "link"
+      }
+      {
+        title: "21"
+        link: "link"
+      }
+      {
+        title: "22"
+        link: "link"
+      }
+      {
+        title: "23"
+        link: "link"
+      }
+      {
+        title: "24"
+        link: "link"
+      }
+    ]
+  }
+]
+categories: ["ação", "aventura", "drama"]
+img: "vinland-saga"
+year: 2019
+status: "pausado"
+synopsis: "Por mil anos, os vikings ganharam bastante notoriedade e reputação como as famílias mais fortes, com sede de violência. Thorfinn, o filho de um dos maiores guerreiros dos vikings, passa sua infância em um campo de batalha, aprimorando suas habilidades em sua aventura para redimir sua vingança mais desejada depois que seu pai foi assassinado."

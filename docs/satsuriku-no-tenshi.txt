@@ -1,0 +1,90 @@
+title: {
+  primary: "satsuriku no tenshi"
+  others: ["殺戮の天使"]
+}
+scores: [
+  {
+    title: "otaku cheiroso"
+    value: 9.5
+    amount: 200
+  }
+]
+seasons: [
+  {
+    title: {
+      primary: "1ª Temporada"
+    }
+    opening: "CVlyghaNP_g"
+    eps: [
+      {
+        title: "1"
+        link: "link"
+      }
+      {
+        title: "2"
+        link: "link"
+      }
+      {
+        title: "3"
+        link: "link"
+      }
+      {
+        title: "4"
+        link: "link"
+      }
+      {
+        title: "5"
+        link: "link"
+      }
+      {
+        title: "6"
+        link: "link"
+      }
+      {
+        title: "7"
+        link: "link"
+      }
+      {
+        title: "8"
+        link: "link"
+      }
+      {
+        title: "9"
+        link: "link"
+      }
+      {
+        title: "10"
+        link: "link"
+      }
+      {
+        title: "11"
+        link: "link"
+      }
+      {
+        title: "12"
+        link: "link"
+      }
+      {
+        title: "13"
+        link: "link"
+      }
+      {
+        title: "14"
+        link: "link"
+      }
+      {
+        title: "15"
+        link: "link"
+      }
+      {
+        title: "16"
+        link: "link"
+      }
+    ]
+  }
+]
+categories: ["aventura", "horror", "psicológico", "suspense"]
+img: "satsuriku-no-tenshi"
+year: 2018
+status: "finalizado"
+synopsis: "Quando Rachel acorda no porão de um prédio desconhecido, ela percebe que perdeu toda a sua memória. Ao tentar sair do lugar, ela encontra Zack, um assassino serial enfaixado dos pés à cabeça e carregando uma foice. “Mate-me… Mate-me, por favor…” “Eu vou te matar, mas só se você me ajudar a sair deste prédio.” Este bizarro trato une os dois indivíduos e os torna parceiros insubstituíveis."

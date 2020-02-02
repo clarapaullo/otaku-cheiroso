@@ -1,0 +1,79 @@
+title: {
+  primary: "no game no life"
+  others: ["ノーゲーム･ノーライフ"]
+}
+scores: [
+  {
+    title: "otaku cheiroso"
+    value: 9.8
+    amount: 1000
+  }
+  {
+    title: "TMDb"
+    value: 8
+    amount: 38
+  }
+]
+seasons: [
+  {
+    title: {
+      primary: "1ª Temporada"
+    }
+    opening: "6CBp4qylX6I"
+    eps: [
+      {
+        title: "1"
+        link: "link"
+      }
+      {
+        title: "2"
+        link: "link"
+      }
+      {
+        title: "3"
+        link: "link"
+      }
+      {
+        title: "4"
+        link: "link"
+      }
+      {
+        title: "5"
+        link: "link"
+      }
+      {
+        title: "6"
+        link: "link"
+      }
+      {
+        title: "7"
+        link: "link"
+      }
+      {
+        title: "8"
+        link: "link"
+      }
+      {
+        title: "9"
+        link: "link"
+      }
+      {
+        title: "10"
+        link: "link"
+      }
+      {
+        title: "11"
+        link: "link"
+      }
+      {
+        title: "12"
+        link: "link"
+      }
+    ]
+  }
+]
+categories: ["aventura", "comédia", "ecchi", "fantasia", "jogo", "sobrenatural"]
+img: "no-game-no-life"
+year: 2014
+status: "pausado"
+synopsis: "A internet está cheia de rumores sobre um jogador conhecido como “em branco”. Que, na verdade, são dois irmãos viciados em games. Eles dizem acreditar que o mundo não passa de um “jogo de merda”. Mas um dia, ao receber um e-mail estranho e vencer o jogo contido nele, eles são convocados por um garoto que se diz “Deus” a conhecer outro mundo."

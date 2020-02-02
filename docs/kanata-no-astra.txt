@@ -1,0 +1,74 @@
+title: {
+  primary: "kanata no astra"
+  others: ["彼方のアストラ"]
+}
+scores: [
+  {
+    title: "otaku cheiroso"
+    value: 9.6
+    amount: 344
+  }
+]
+seasons: [
+  {
+    title: {
+      primary: "1ª Temporada"
+    }
+    opening: "GhXpbeKcHu0"
+    eps: [
+      {
+        title: "1"
+        link: "link"
+      }
+      {
+        title: "2"
+        link: "link"
+      }
+      {
+        title: "3"
+        link: "link"
+      }
+      {
+        title: "4"
+        link: "link"
+      }
+      {
+        title: "5"
+        link: "link"
+      }
+      {
+        title: "6"
+        link: "link"
+      }
+      {
+        title: "7"
+        link: "link"
+      }
+      {
+        title: "8"
+        link: "link"
+      }
+      {
+        title: "9"
+        link: "link"
+      }
+      {
+        title: "10"
+        link: "link"
+      }
+      {
+        title: "11"
+        link: "link"
+      }
+      {
+        title: "12"
+        link: "link"
+      }
+    ]
+  }
+]
+categories: ["aventura", "espaço", "ficção científica", "mistério"]
+img: "kanata-no-astra"
+year: 2019
+status: "finalizado"
+synopsis: "A história acontece no ano de 2061, onde a viagem espacial já uma realidade para os humanos, tanto que até mesmo escolas fazendo acampamentos no espaço. Em um desses acampamentos, da escola Caird, um grupo de alunos ao chegar no Planeta McPa encontram uma misteriosa esfera de luz, que os transporta mais de cinco mil anos-luz para longe de casa."
